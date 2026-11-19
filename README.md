@@ -2,7 +2,7 @@
 
 ### AI Engineer | Generative AI | Python Developer
 
-I'm an AI/GenAI developer with 2 years of experience working on AI-powered applications and intelligent solutions.
+I'm an AI/GenAI developer with 2+ years of experience working on AI-powered applications and intelligent solutions.
 
 ### 🚀 Technical Skills
 
@@ -18,7 +18,6 @@ I'm an AI/GenAI developer with 2 years of experience working on AI-powered appli
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
 - AI Agents and Agentic AI
-- Deep Learning
 - AI Application Development
 
 ### 📌 Featured Projects
