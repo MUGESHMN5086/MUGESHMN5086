@@ -28,5 +28,5 @@ Coming soon! I'm building and documenting practical AI/GenAI projects.
 ### 📫 Connect With Me
 
 - GitHub: https://github.com/MUGESHMN5086
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: www.linkedin.com/in/mugesh-ravichandran-0a5a36273
 
