@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Mugesh Ravi 👋
 
-<!--
-**MUGESHMN5086/MUGESHMN5086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Generative AI | Python Developer
 
-Here are some ideas to get you started:
+I'm an AI/GenAI developer with 2 years of experience working on AI-powered applications and intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Skills
+
+- **Programming:** Python
+- **AI & GenAI:** Generative AI, LLMs, RAG
+- **Backend:** FastAPI, REST APIs, Socket.IO
+- **AI Integration:** OpenAI API, Google Gemini API
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, GitHub
+
+### 💻 Areas of Interest
+
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- AI Agents and Agentic AI
+- Deep Learning
+- AI Application Development
+
+### 📌 Featured Projects
+
+Coming soon! I'm building and documenting practical AI/GenAI projects.
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/MUGESHMN5086
+- LinkedIn: Add your LinkedIn profile URL here
+
